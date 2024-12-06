@@ -1,7 +1,4 @@
-# Gerenciador de Restaurantes
-
-![Project Status](https://img.shields.io/badge/status-alura%20certified%3A%20completed-brightgreen)
-![Python Version](https://img.shields.io/badge/python-3.12-blue)
+# Gerenciador de Restaurante
 
 ## Sobre o Projeto
 
