@@ -12,11 +12,3 @@ Este projeto é uma aplicação de terminal para gerenciar restaurantes. Ele per
 - **Interface Simples**: Navegação intuitiva pelo terminal.
 
 ---
-
-## Como Executar
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
-   cd nome_do_repositorio
-   ```
